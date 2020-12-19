@@ -1,7 +1,7 @@
 # Project-One
 Project-One Proposal
 
-Project title: “Are the Browns Losing Seasons Cleveland Weathers Fault?”
+Project title: “Are the Browns Losing Seasons Cleveland Weathers Fault?”https://www.visualcrossing.com/weather/weather-data-services#/viewData
 Teams members:  Julie Kitzler, Michelle Fegatelli, Luke Fedeli, Mel Sabo, Jah	 
 Project Description:  To correlate the Cleveland Browns performance against the weather forecast 
 Research Questions to be Answered:
@@ -10,7 +10,7 @@ Research Questions to be Answered:
 3.	 Is there a correlation between total rainfall versus Browns total game points?
 4.	Is there a correlation between temperature versus Browns total game points?
 Datasets to be used: Data from the Cleveland Browns seasons 1985 to 1994
-•	Weather API’s- https://openweathermap.org/history#name 
+•	Historical Weather CSV files- https://www.visualcrossing.com/weather/weather-data-services#/editDataDefinition
 •	NFL Statistics- https://www.kaggle.com/tobycrabtree/nfl-scores-and-betting-data?select=spreadspoke_scores.csv. 
 Rough breakdown of tasks:
 •	 Julie Kitzler:
